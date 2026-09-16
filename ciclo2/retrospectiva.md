@@ -23,7 +23,7 @@ También se actualizaron las clases SlotMachine y Wheel, se realizaron las prueb
 Gabriela: 17 horas
 Mathias: 18 horas
 
-Total: 35 horas/hombre
+Total: 35 horas
 4. ¿Cuál consideran que fue el mayor logro? ¿Por qué?
 
 El mayor logro fue poder agregar las nuevas funcionalidades del Ciclo 2 sin tener que rehacer el proyecto anterior. Se logró extender el funcionamiento de la máquina reutilizando las clases que ya existían y agregando nuevos comportamientos como swap, lock, unlock y las nuevas versiones de spin.
